@@ -1,0 +1,2 @@
+rootProject.name = "FyDia"
+include ':app'
